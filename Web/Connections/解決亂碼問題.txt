@@ -1,0 +1,3 @@
+解決亂碼問題.txt
+mysql_query("SET NAMES UTF8");
+session_start();
